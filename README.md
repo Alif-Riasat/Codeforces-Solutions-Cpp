@@ -14,7 +14,7 @@ I will keep updating this repository as I solve more problems.
 ## 📂 Problem List
 | # | Problem Name | Solution | Tags |
 |---|--------------|----------|------|
-| 1 | - | - | - |
+| 1 | A_Goals_of_Victory | A_Goals_of_Victory.cpp | - |
 | 2 | - | - | - |
 
 *(Add new problems here manually as you solve them.)*
