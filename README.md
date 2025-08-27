@@ -18,6 +18,8 @@ I will keep updating this repository as I solve more problems.
 | 2 | A_Again_Twenty_Five | A_Again_Twenty_Five.cpp | number theory |
 | 3 | A. Ambitious Kid | A_Ambitious Kid.cpp | math |
 | 4 | B_Blank_Space | B_Blank_Space.cpp | implementation |
+| 4 | A_Halloumi_Boxes | A_Halloumi_Boxes.cpp | brute force, greedy, sorting |
+
 
 *(Add new problems here manually as you solve them.)*
 
