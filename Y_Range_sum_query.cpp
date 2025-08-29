@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int n,q;
     cin>>n>>q;
-    vector<int>a(n+1),pre(n+1);
+    vector<long long int>a(n+1),pre(n+1);
     for(int i=1;i<a.size();i++){
         cin>>a[i];
     }
@@ -14,7 +14,7 @@ int main(){
     }
 
     while(q--){
-        int l,r,sum=0;
+        long long int l,r,sum=0;
         cin>>l>>r;
         if(l==1){
             sum=pre[r];
@@ -24,4 +24,5 @@ int main(){
         }
         cout<<sum<<endl;
     }
+
 }
