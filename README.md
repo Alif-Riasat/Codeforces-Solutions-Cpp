@@ -6,8 +6,8 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **6**  
-- Last Updated: **2025-08-29**  
+- Total Problems Solved: **7**  
+- Last Updated: **2025-08-30**  
 
 ---
 
@@ -20,6 +20,7 @@ I will keep updating this repository as I solve more problems.
 | 4 | B_Blank_Space | B_Blank_Space.cpp | implementation |
 | 5 | A_Halloumi_Boxes | A_Halloumi_Boxes.cpp | brute force, greedy, sorting |
 | 6 | A_Line_Trip  | A_Line_Trip.cpp  | greedy, math |
+| 7 | C_Target_Practice | C_Target_Practice.cpp  | implementation, math |
 
 
 
