@@ -6,7 +6,7 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **7**  
+- Total Problems Solved: **8**  
 - Last Updated: **2025-08-30**  
 
 ---
@@ -21,6 +21,7 @@ I will keep updating this repository as I solve more problems.
 | 5 | A_Halloumi_Boxes | A_Halloumi_Boxes.cpp | brute force, greedy, sorting |
 | 6 | A_Line_Trip  | A_Line_Trip.cpp  | greedy, math |
 | 7 | C_Target_Practice | C_Target_Practice.cpp  | implementation, math |
+| 8 | Y_Range_sum_query | Y_Range_sum_query.cpp  | prefix sum |
 
 
 
