@@ -23,7 +23,7 @@ I will keep updating this repository as I solve more problems.
 | 7 | C_Target_Practice | C_Target_Practice.cpp  | implementation, math |
 | 8 | Y_Range_sum_query | Y_Range_sum_query.cpp  | prefix sum |
 | 9 | Z_Binary_Search | Z_Binary_Search.cpp  | binary search |
-| 10 | Y_Range_sum_query | Y_Range_sum_query.cpp  | prefix sum |
+| 10 | A_Buttons | A_Buttons.cpp  | games, greedy, math |
 
 
 
