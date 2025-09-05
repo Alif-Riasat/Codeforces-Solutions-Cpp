@@ -27,7 +27,6 @@ I will keep updating this repository as I solve more problems.
 
 
 
-*(Add new problems here manually as you solve them.)*
 
 ---
 
