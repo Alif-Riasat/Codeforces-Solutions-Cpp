@@ -25,7 +25,7 @@ I will keep updating this repository as I solve more problems.
 | 9 | Z_Binary_Search | Z_Binary_Search.cpp  | binary search |
 | 10 | A_Buttons | A_Buttons.cpp  | games, greedy, math |
 | 11 | B_Drinks | B_Drinks.cpp  | implementation, math |
-
+| 12 | B_Interesting_drink | B_Interesting_drink.cpp  | dp,binary search,implementation |
 
 
 
