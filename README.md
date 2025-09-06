@@ -6,8 +6,8 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **12**  
-- Last Updated: **2025-09-06**  
+- Total Problems Solved: **13**  
+- Last Updated: **2025-09-07**  
 
 ---
 
@@ -26,7 +26,7 @@ I will keep updating this repository as I solve more problems.
 | 10 | A_Buttons | A_Buttons.cpp  | games, greedy, math |
 | 11 | B_Drinks | B_Drinks.cpp  | implementation, math |
 | 12 | B_Interesting_drink | B_Interesting_drink.cpp  | dp,binary search,implementation |
-
+| 13 | A_Array_Coloring | A_Array_Coloring.cpp  | greedy,math |
 
 
 
