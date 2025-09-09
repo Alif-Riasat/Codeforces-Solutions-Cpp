@@ -6,8 +6,8 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **15**  
-- Last Updated: **2025-09-07**  
+- Total Problems Solved: **16**  
+- Last Updated: **2025-09-09**  
 
 ---
 
@@ -29,6 +29,7 @@ I will keep updating this repository as I solve more problems.
 | 13 | A_Array_Coloring     | A_Array_Coloring.cpp      | greedy, math                        | 800    |
 | 14 | A_Odd_Divisor        | A_Odd_Divisor.cpp         | number theory, math                 | 900    |
 | 15 | A_Collatz_Conjecture | A_Collatz_Conjecture.cpp  | constructive algorithm              | 800    |
+| 16 | A_Doremy_s_Paint_3   | A_Doremy_s_Paint_3.cpp    | constructive algorithm              | 800    |
 
 
 
