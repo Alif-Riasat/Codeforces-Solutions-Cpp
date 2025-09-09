@@ -30,7 +30,7 @@ I will keep updating this repository as I solve more problems.
 | 14 | A_Odd_Divisor        | A_Odd_Divisor.cpp         | number theory, math                 | 900    |
 | 15 | A_Collatz_Conjecture | A_Collatz_Conjecture.cpp  | constructive algorithm              | 800    |
 | 16 | A_Doremy_s_Paint_3   | A_Doremy_s_Paint_3.cpp    | constructive algorithm              | 800    |
-
+| 17 | B_Chemistry          | B_Chemistry.cpp           | string                              | 900    |
 
 
 
