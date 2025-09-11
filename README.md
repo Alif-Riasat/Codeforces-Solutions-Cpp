@@ -31,6 +31,7 @@ I will keep updating this repository as I solve more problems.
 | 15 | A_Collatz_Conjecture | A_Collatz_Conjecture.cpp  | constructive algorithm              | 800    |
 | 16 | A_Doremy_s_Paint_3   | A_Doremy_s_Paint_3.cpp    | constructive algorithm              | 800    |
 | 17 | B_Chemistry          | B_Chemistry.cpp           | string                              | 900    |
+| 18 | A_Petya_and_Strings          | A_Petya_and_Strings.cpp          | implementation,string                              | 900    |
 
 
 
