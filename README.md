@@ -6,7 +6,7 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **19**  
+- Total Problems Solved: **20**  
 - Last Updated: **2025-09-12**  
 
 ---
@@ -31,8 +31,9 @@ I will keep updating this repository as I solve more problems.
 | 15 | A_Collatz_Conjecture | A_Collatz_Conjecture.cpp  | constructive algorithm              | 800    |
 | 16 | A_Doremy_s_Paint_3   | A_Doremy_s_Paint_3.cpp    | constructive algorithm              | 800    |
 | 17 | B_Chemistry          | B_Chemistry.cpp           | string                              | 900    |
-| 18 | A_Petya_and_Strings          | A_Petya_and_Strings.cpp          | implementation,string                              | 800    |
-| 19 | A_Helpful_Maths          | A_Helpful_Maths.cpp          | greedy,impplementation,sorting,string                              | 900    |
+| 18 | A_Petya_and_Strings  | A_Petya_and_Strings.cpp   | implementation,string               | 800    |
+| 19 | A_Helpful_Maths      | A_Helpful_Maths.cpp       | greedy,impplementation,sorting,string| 800    |
+| 20 | C_Vasilije_in_Cacak  | C_Vasilije_in_Cacak.cpp   | math                                | 900    |
 
 
 
