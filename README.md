@@ -34,6 +34,7 @@ I will keep updating this repository as I solve more problems.
 | 18 | A_Petya_and_Strings  | A_Petya_and_Strings.cpp   | implementation,string               | 800    |
 | 19 | A_Helpful_Maths      | A_Helpful_Maths.cpp       | greedy,impplementation,sorting,string| 800    |
 | 20 | C_Vasilije_in_Cacak  | C_Vasilije_in_Cacak.cpp   | math                                | 900    |
+| 21 | A_Plus_or_Minus      | A_Plus_or_Minus.cpp       | implementation                      | 800    |
 
 
 
