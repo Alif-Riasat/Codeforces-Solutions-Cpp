@@ -36,6 +36,7 @@ I will keep updating this repository as I solve more problems.
 | 20 | C_Vasilije_in_Cacak  | C_Vasilije_in_Cacak.cpp   | math                                | 900    |
 | 21 | A_Plus_or_Minus      | A_Plus_or_Minus.cpp       | implementation                      | 800    |
 | 22 | A_Is_your_horseshoe_on_the_other_hoof      | A_Is_your_horseshoe_on_the_other_hoof.cpp      | implementation                      | 800    |
+| 23 | A_Desorting      | A_Desorting.cpp    | brute force,greedy,math                      | 800    |
 
 
 ---
