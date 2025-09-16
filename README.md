@@ -6,8 +6,8 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **23**  
-- Last Updated: **2025-09-15**  
+- Total Problems Solved: **24**  
+- Last Updated: **2025-09-16**  
 
 ---
 
@@ -37,6 +37,7 @@ I will keep updating this repository as I solve more problems.
 | 21 | A_Plus_or_Minus      | A_Plus_or_Minus.cpp       | implementation                      | 800    |
 | 22 | A_Is_your_horseshoe_on_the_other_hoof      | A_Is_your_horseshoe_on_the_other_hoof.cpp      | implementation                      | 800    |
 | 23 | A_Desorting      | A_Desorting.cpp    | brute force,greedy,math                      | 800    |
+| 24 | A_I_Wanna_Be_the_Guy      | A_I_Wanna_Be_the_Guy.cpp    | greedy, implementation                     | 800    |
 
 
 ---
