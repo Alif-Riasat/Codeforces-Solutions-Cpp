@@ -6,8 +6,8 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **24**  
-- Last Updated: **2025-09-16**  
+- Total Problems Solved: **26**  
+- Last Updated: **2025-09-18**  
 
 ---
 
