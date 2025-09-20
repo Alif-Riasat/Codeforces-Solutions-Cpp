@@ -40,7 +40,7 @@ I will keep updating this repository as I solve more problems.
 | 24 | A_I_Wanna_Be_the_Guy | A_I_Wanna_Be_the_Guy.cpp  | greedy, implementation              | 800    |
 | 25 | B_Even_Array         | B_Even_Array.cpp          | greedy, math                        | 800    |
 | 26 | A_Jagged_Swaps       | A_Jagged_Swaps.cpp        | sorting                             | 800    |
-| 27 | B_Array_Cloning_Technique| B_Array_Cloning_Technique.cpp| constructive algorithm,greedy,sorting| 800    |
+| 27 | B_Array_Cloning_Technique| B_Array_Cloning_Technique.cpp| constructive algorithm,greedy,sorting| 900    |
 ---
 
 ## 🛠️ Tech
