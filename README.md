@@ -41,6 +41,7 @@ I will keep updating this repository as I solve more problems.
 | 25 | B_Even_Array         | B_Even_Array.cpp          | greedy, math                        | 800    |
 | 26 | A_Jagged_Swaps       | A_Jagged_Swaps.cpp        | sorting                             | 800    |
 | 27 | B_Array_Cloning_Technique| B_Array_Cloning_Technique.cpp| constructive algorithm,greedy,sorting| 900    |
+| 28 | A_Shortest_Increasing_Path| A_Shortest_Increasing_Path.cpp|                              |     |
 ---
 
 ## 🛠️ Tech
