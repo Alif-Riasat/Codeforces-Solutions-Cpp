@@ -6,8 +6,8 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **26**  
-- Last Updated: **2025-09-20**  
+- Total Problems Solved: **32**  
+- Last Updated: **2025-09-23**  
 
 ---
 
@@ -42,8 +42,10 @@ I will keep updating this repository as I solve more problems.
 | 26 | A_Jagged_Swaps       | A_Jagged_Swaps.cpp        | sorting                             | 800    |
 | 27 | B_Array_Cloning_Technique| B_Array_Cloning_Technique.cpp| constructive algorithm,greedy,sorting| 900    |
 | 28 | A_Shortest_Increasing_Path| A_Shortest_Increasing_Path.cpp| constructive algorithm     |        |
-|29  |A_Even_Odds           |A_Even_Odds.cpp            |math                                 | 900    |
-
+| 29 |A_Even_Odds           |A_Even_Odds.cpp            | math                                | 900    |
+| 30 |A_HQ_9                |A_HQ_9.cpp                 | implementation                      | 900    |
+| 31 |B_01_Game             |B_01_Game.cpp              | games                               | 900    |
+| 32 | A_Everybody_Likes_Good_Arrays|A_Everybody_Likes_Good_Arrays.cpp| greedy,math           | 800    |
 ---
 
 ## 🛠️ Tech
