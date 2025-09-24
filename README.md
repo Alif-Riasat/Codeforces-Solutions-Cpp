@@ -46,6 +46,7 @@ I will keep updating this repository as I solve more problems.
 | 30 |A_HQ_9                |A_HQ_9.cpp                 | implementation                      | 900    |
 | 31 |B_01_Game             |B_01_Game.cpp              | games                               | 900    |
 | 32 | A_Everybody_Likes_Good_Arrays|A_Everybody_Likes_Good_Arrays.cpp| greedy,math           | 800    |
+| 33 |C_Simple_Repetition   |C_Simple_Repetition.cpp    | math,number theory                  | 1000   |
 ---
 
 ## 🛠️ Tech
