@@ -6,8 +6,8 @@ I will keep updating this repository as I solve more problems.
 ---
 
 ## 📊 Progress
-- Total Problems Solved: **32**  
-- Last Updated: **2025-09-23**  
+- Total Problems Solved: **34**  
+- Last Updated: **2025-09-25**  
 
 ---
 
@@ -47,6 +47,7 @@ I will keep updating this repository as I solve more problems.
 | 31 |B_01_Game             |B_01_Game.cpp              | games                               | 900    |
 | 32 | A_Everybody_Likes_Good_Arrays|A_Everybody_Likes_Good_Arrays.cpp| greedy,math           | 800    |
 | 33 |C_Simple_Repetition   |C_Simple_Repetition.cpp    | math,number theory                  | 1000   |
+| 34 |B_Swap_and_Delete     | B_Swap_and_Delete.cpp     | string                              | 1000   |
 ---
 
 ## 🛠️ Tech
