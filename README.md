@@ -50,6 +50,7 @@ I will keep updating this repository as I solve more problems.
 | 34 |B_Swap_and_Delete     | B_Swap_and_Delete.cpp     | string                              | 1000   |
 | 35 |A_Be_Positive         | A_Be_Positive.cpp         | math                                |        |
 | 36 |B_Unconventional_Pairs| B_Unconventional_Pairs.cpp| greedy,sorting                      |        |
+| 35 |C_Raspberries         | C_Raspberries.cpp         | dp,math                             | 1000   |
 
 ---
 
