@@ -51,6 +51,7 @@ I will keep updating this repository as I solve more problems.
 | 35 |A_Be_Positive         | A_Be_Positive.cpp         | math                                |        |
 | 36 |B_Unconventional_Pairs| B_Unconventional_Pairs.cpp| greedy,sorting                      |        |
 | 37 |C_Raspberries         | C_Raspberries.cpp         | dp,math                             | 1000   |
+| 38 |B_New_Year_s_Number   | B_New_Year_s_Number.cpp   | brute force,dp,math                 | 900    |
 
 ---
 
