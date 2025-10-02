@@ -52,6 +52,8 @@ I will keep updating this repository as I solve more problems.
 | 36 |B_Unconventional_Pairs| B_Unconventional_Pairs.cpp| greedy,sorting                      |        |
 | 37 |C_Raspberries         | C_Raspberries.cpp         | dp,math                             | 1000   |
 | 38 |B_New_Year_s_Number   | B_New_Year_s_Number.cpp   | brute force,dp,math                 | 900    |
+| 39 |F_Divisible_Perfection| F_Divisible_Perfection.cpp| string,number theory                |        |
+| 40 |A_Reverse_a_Substring | A_Reverse_a_Substring.cpp | implementation,string,sorting       | 1000   |
 
 ---
 
