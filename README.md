@@ -56,6 +56,7 @@ I will keep updating this repository as I solve more problems.
 | 40 |A_Reverse_a_Substring | A_Reverse_a_Substring.cpp | implementation,string,sorting       | 1000   |
 | 41 |B_Bogosort            | B_Bogosort.cpp            | constructive algorithm,string       | 1000   |
 | 42 |A_Extremely_Round     | A_Extremely_Round.cpp     | brute force,implementation          | 800    |
+| 43 |A_Make_it_Beautiful   | A_Make_it_Beautiful.cpp   | constructive algorithm,math,sorting | 800    |
 
 
 ---
