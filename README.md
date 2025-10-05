@@ -55,6 +55,7 @@ I will keep updating this repository as I solve more problems.
 | 39 |F_Divisible_Perfection| F_Divisible_Perfection.cpp| string,number theory                |        |
 | 40 |A_Reverse_a_Substring | A_Reverse_a_Substring.cpp | implementation,string,sorting       | 1000   |
 | 41 |B_Bogosort            | B_Bogosort.cpp            | constructive algorithm,string       | 1000   |
+| 42 |A_Extremely_Round     | A_Extremely_Round.cpp     | brute force,implementation          | 800    |
 
 
 ---
